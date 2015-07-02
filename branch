@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A git branch is a seperate branching off of the repo, allowing changes to be made before merging back in with the master
