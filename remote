@@ -1,1 +1,1 @@
-Explain what 'upstream' remote is usually used for, in your own words
+An upstream remote is used to link your local repo with a master repo, usually on github
